@@ -1,0 +1,28 @@
+{
+  "name": "service-base-scripts",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "= <=>",
+  "homepage": "https://github.com/dufa456/service-base/tree/master/packages/scripts#readme",
+  "license": "MIT",
+  "main": "lib/dist.js",
+  "directories": {
+    "lib": "dist"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dufa456/service-base.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/dufa456/service-base/issues"
+  }
+}
